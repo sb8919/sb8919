@@ -20,7 +20,7 @@
 
 
 
-## 🔨 Once I've used 🔨
+## 🔨 Skill Stack 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
