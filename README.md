@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sb8919&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
 
   
-  <img src="https://raw.githubusercontent.com/sb8919/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+  <img src="https://raw.githubusercontent.com/sb8919/github-stats-transparent/output/generated/languages.svg](https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=sb8919.github.io&layout=compact&theme=tokyonight)" width="49.2%" />
 </a>
 
 
