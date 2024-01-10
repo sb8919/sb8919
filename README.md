@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=$waving&color=auto&height=$200&section=header&text=$BumHub&fontSize=$53&animation=$twinkling)
+![header](https://capsule-render.vercel.app/api?type=$waving&color=auto&height=$200&section=header&text=$"BumHub"&fontSize=$53&animation=$twinkling)
 
 
 <a href="s">
