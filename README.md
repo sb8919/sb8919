@@ -1,13 +1,3 @@
-<a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=sb8919.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=sb8919&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sb8919&theme=nord)](https://github.com/sb8919/github-readme-activity-graph)
-
-## 📞 Contact 📞
 <div style="display:flex; flex-direction:row; text-decoration: none;">
     <a href="mailto:psb8919@gmail.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
@@ -19,6 +9,16 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div><br>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=sb8919.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sb8919&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sb8919&theme=nord)](https://github.com/sb8919/github-readme-activity-graph)
+
+
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
