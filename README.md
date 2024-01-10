@@ -1,14 +1,5 @@
-<div style="display:flex; flex-direction:row; text-decoration: none;">
-    <a href="mailto:psb8919@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://open.kakao.com/o/sedVeu4b" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-    <a href="https://www.instagram.com/bum._.ii" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-</div><br>
+![header](https://capsule-render.vercel.app/api?type=$waving&color=auto&height=$200&section=header&text=$BumHub&fontSize=$53&animation=$twinkling)
+
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=sb8919&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
