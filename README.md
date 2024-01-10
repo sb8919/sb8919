@@ -2,7 +2,7 @@
 <a href="https://github.com/sb8919/"><img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=BumHub&fontSize=40&animation=twinkling" width="100%"/></a>
 
 <a href="https://github.com/sb8919/">
-  <img src="https://github-readme-stats.vercel.app/api?username=sb8919&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.5%" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sb8919&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true&hide_rank" width="49.5%" height="200"/>
 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=sb8919.github.io&layout=compact&theme=tokyonight&hide=jupyter%20notebook" width="49.5%" height="200"/>
