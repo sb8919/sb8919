@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=BumHub%20render&fontSize=50&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=BumHub&fontSize=50&animation=twinkling" />
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=sb8919&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
