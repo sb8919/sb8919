@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sb8919&theme=dark&show_icons=true)
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:psb8919@gmail.com" style="text-decoration=none">
@@ -47,4 +48,4 @@
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sb8919&theme=dark&show_icons=true)
+
