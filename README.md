@@ -1,14 +1,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=BumHub&fontSize=40&animation=twinkling" width="100%"/>
 
-<a href="s">
+<a href="s" style="padding-bottom:150">
   <img src="https://github-readme-stats.vercel.app/api?username=sb8919&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.5%" height="200"/>
 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=sb8919.github.io&layout=compact&theme=tokyonight" width="49.5%" height="200"/>
 </a>
 
-<div height=150/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sb8919&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
