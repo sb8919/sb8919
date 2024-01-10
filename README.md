@@ -10,12 +10,12 @@
     </a>
 </div><br>
 
-<div style="display: flex; justify-content: space-around;">
-    <a href="s">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=sb8919.github.io&layout=compact&theme=tokyonight" />
+<div style="display: flex;">
+    <a href="s" style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=sb8919.github.io&layout=compact&theme=tokyonight" style="width: 100%; height: auto;" />
     </a>
-    <a href="s">
-        <img src="https://github-readme-stats.vercel.app/api?username=sb8919&theme=tokyonight&show_icons=true" width="42%" />
+    <a href="s" style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api?username=sb8919&theme=tokyonight&show_icons=true" style="width: 100%; height: auto;" />
     </a>
 </div>
 
@@ -24,7 +24,7 @@
 
 
 
-## 🔨 Skill Stack 🔨
+## Skill Stack 🚀
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
