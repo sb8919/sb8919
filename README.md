@@ -1,4 +1,15 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sb8919&theme=dark&show_icons=true)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=sb8919.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=sb8919&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row; text-decoration: none;">
     <a href="mailto:psb8919@gmail.com" style="text-decoration: none;">
