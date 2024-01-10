@@ -10,7 +10,7 @@
 
 ##  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sb8919&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/sb8919/">[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sb8919&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)</a>
 
 ## Skill Stack 🚀
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
