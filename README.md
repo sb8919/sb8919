@@ -48,4 +48,4 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sb8919&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sb8919&theme=dark&show_icons=true)
